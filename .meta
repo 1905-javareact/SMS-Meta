@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "UserInterface": "https://github.com/1905-javareact/UserInterface.git",
+    "UserService": "https://github.com/1905-javareact/UserService.git",
+    "InterviewService": "https://github.com/1905-javareact/InterviewService.git",
+    "SurveyService": "https://github.com/1905-javareact/SurveyService.git",
+    "Gateway": "https://github.com/1905-javareact/Gateway.git"
+  }
+}
